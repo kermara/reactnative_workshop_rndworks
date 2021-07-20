@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-call-detection": "github:priteshrnandgaonkar/react-native-call-detection#d6e90c32188341b36508853eb743b9a475acdd5a"
   },
   "devDependencies": {
